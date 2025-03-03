@@ -1,0 +1,4 @@
+on chat:
+	if name of player is "djswndl":
+		cancel event
+		message "이주언 싸려"
