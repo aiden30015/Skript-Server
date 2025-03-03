@@ -1,4 +1,3 @@
-on chat:
-	if name of player is "djswndl":
-		cancel event
-		message "이주언 싸려"
+command /인벤초기화:
+	trigger:
+		clear %player%
