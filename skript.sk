@@ -5,3 +5,6 @@ on chat:
 command /황지훈:
 	trigger:
 		message "158"
+command /인벤초기화:
+    trigger:
+        clear player's inventory
